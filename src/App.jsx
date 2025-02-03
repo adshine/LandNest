@@ -2,7 +2,7 @@ import SpreadsheetConverter from './components/SpreadsheetConverter'
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100 py-12">
+    <div className="min-h-screen">
       <SpreadsheetConverter />
     </div>
   )
